@@ -4,7 +4,7 @@
 
 ## 📚 Table of Contents
 
-- 🏛️ [About NOIS](#-about-nois)
+- 🏛️ [About NOIS](#about-nois)
 - 🚀 Projects Led by NOIS
   - 🧭 [ISARIC HUB South America](#-isaric-hub-south-america)
   - 💊 [Intelligent Antimicrobial Resistance Platform (INCEPT)](#-intelligent-antimicrobial-resistance-platform)
