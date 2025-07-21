@@ -6,7 +6,7 @@
 
 - 🏛️ [About NOIS](#about-nois)
 - [🚀 Projects Led by NOIS](#projects-led-by-nois)
-  - [🧭 ISARIC HUB South America](#isaric-hub-south-america)
+  - [🧭 ISARIC HUB South America](#-isaric-hub-south-america)
   - [💊 Intelligent Antimicrobial Resistance Platform (INCEPT)](#intelligent-antimicrobial-resistance-platform)
   - [🔬 ICODA EFFECT Brazil](#icoda-effect-brazil)
 - [📬 Contact Us](#contact-us)
