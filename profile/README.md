@@ -26,6 +26,65 @@ Our team leads high-impact projects in areas such as epidemiological surveillanc
 
 ## 🚀 Projects Led by NOIS
 
+### 🧭 ISARIC HUB South America
+
+<img src="/profile/images/isaric logo.png" alt="NOIS Logo" width="200"/>
+
+The **ISARIC HUB South America** represents a crucial initiative in global health research, focused on collecting and analyzing data on emerging infectious diseases. This hub is the regional extension of the global ISARIC platform, adapting its methodologies and tools to the South American context.
+
+At the core of the ISARIC HUB South America is its **Clinical Epidemiology Platform**. This platform consists of a suite of data tools and a standardized central repository, which form the backbone of the consortium's data collection, processing, and analysis activities. Current tools include:
+
+* **ARC:** A machine-readable library of standardized questions for case report forms (CRFs) and expert-generated templates to characterize disease.
+* **BRIDGE:** Operationalizes ARC to automate the production of CRFs and REDCap-compatible database files, enabling anyone to build a customized CRF and database using international standards in minutes.
+* **VERTEX:** Pulls ARC-formatted data from REDCap, transforms it into analysis-ready data frames, and applies reusable analytical pipelines for data processing and analysis. The results are presented as a dashboard of interactive graphics with outbreak-tailored visual evidence.
+
+This Hub has made considerable headway in community engagement within Brazil. The team engaged with the favela of **Complexo da Maré**, a socially vulnerable community in Rio de Janeiro consisting of 140,000 inhabitants. An intervention combining communication, surveillance, and telehealth, with a strong community engagement component, was able to **reduce COVID-19 mortality** and **increase case detection** in this large Rio de Janeiro community. These findings show that investment in community-based interventions may reduce mortality and improve pandemic control in vulnerable communities from LMICs.
+
+**📌 Community Impact:**
+- 🧭 Strengthened regional capacity for outbreak surveillance through standardized clinical tools
+- 💬 Enabled community-driven health interventions in vulnerable urban areas
+- 🌍 Adapted international research protocols to the realities of South America
+- 🩺 Improved access to telehealth and diagnostic services in underserved populations
+
+**⚙️ Technologies Used:**
+
+- Python,
+- REDCap, Pandas
+
+### 🔬 ISARIC HUB South America Project Repositories
+### [ISARIC HUB South America](https://github.com/noispuc/ICODA_EFFECT_Brazil)  
+[![Stars](https://img.shields.io/github/stars/noispuc/ISARIC-HUB-SA-Analytics)](https://github.com/noispuc/ISARIC-HUB-SA-Analytics/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+### Intelligent Antimicrobial Resistance Platform
+
+<img src="/profile/images/incept.jpg" alt="NOIS Logo" width="200" />
+
+INCEPT is a data science platform developed to support healthcare professionals — including hospital managers, Infection Control Committees (CCIH), and prescribers — in the surveillance and control of antimicrobial resistance in patients admitted to Intensive Care Units (ICUs). The tool assists in decision-making and promotes the rational use of antimicrobials, ensuring patient safety and treatment effectiveness.
+
+This project supports the national antimicrobial management strategy through a partnership with the Impacto MR platform. The initiative involves public and private hospitals and operates under the supervision of DECIT/MS and ANVISA.
+
+**📌 Community Impact:**  
+- 💊 Improved antimicrobial prescribing practices across ICU settings
+- 🛡️ Strengthened infection control and resistance surveillance in critical care
+- 🔍 Enabled data-driven decision making for safer, more effective treatments
+- 📉 Contributed to the reduction of antimicrobial misuse and hospital-acquired infections
+
+**⚙️ Technologies Used:**
+
+- Python, Javascript, CSS
+- AWS
+
+### 💊 IMPACTO MR Project Repositories
+
+These repositories are internal and part of the national antimicrobial resistance platform supported by DECIT/MS and ANVISA.
+- [`IMPACTO_MR_Dash`](https://github.com/noispuc/IMPACTO_MR_Dash) *(private repository)*
+- [`IMPACTO_MR_Tratamento`](https://github.com/noispuc/IMPACTO_MR_Tratamento) *(private repository)*
+
+---
+
 <img src="/profile/images/icoda.png" alt="NOIS Logo" width="200"/>
 
 ### 🧪 ICODA EFFECT Brazil  
@@ -35,10 +94,10 @@ This is the code repository of the EFFECT-Brazil driver project from the <a href
 The project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (Núcleo de Operações e Inteligência em Saúde) (NOIS), of the Department of Industrial Engineering at PUC-Rio
 
 **📌 Community Impact:**  
-Conducted detailed analyses of COVID-19 spread and outcomes using hospital records across Brazil. Contributed to real-time evidence for public health strategies and ICU-level decisions.
-
-- ⬇️ **Reduced COVID-19 mortality**
-- ⬆️ **Increased case detection**
+- 📊 Enabled large-scale clinical data analysis to support national COVID-19 response
+- 🏥 Informed ICU-level and hospital strategies through predictive modeling and real-time evidence
+- 🧪 Advanced understanding of vaccine effectiveness and virus variants in Brazilian populations
+- 🧩 Provided actionable insights for policymakers using scalable analytics and multidisciplinary collaboration
 
 **⚙️ Technologies Used:**
 
@@ -62,65 +121,6 @@ Conducted detailed analyses of COVID-19 spread and outcomes using hospital recor
 
 #### [ICODA_COVID_VaccineStrategy](https://github.com/noispuc/ICODA_COVID_VaccineStrategy)  
 [![Stars](https://img.shields.io/github/stars/noispuc/ICODA_COVID_VaccineStrategy)](https://github.com/noispuc/ICODA_COVID_VaccineStrategy/stargazers)
-
----
-
-### 🧭 ISARIC HUB South America
-
-<img src="/profile/images/isaric logo.png" alt="NOIS Logo" width="200"/>
-
-The **ISARIC HUB South America** represents a crucial initiative in global health research, focused on collecting and analyzing data on emerging infectious diseases. This hub is the regional extension of the global ISARIC platform, adapting its methodologies and tools to the South American context.
-
-At the core of the ISARIC HUB South America is its **Clinical Epidemiology Platform**. This platform consists of a suite of data tools and a standardized central repository, which form the backbone of the consortium's data collection, processing, and analysis activities. Current tools include:
-
-* **ARC:** A machine-readable library of standardized questions for case report forms (CRFs) and expert-generated templates to characterize disease.
-* **BRIDGE:** Operationalizes ARC to automate the production of CRFs and REDCap-compatible database files, enabling anyone to build a customized CRF and database using international standards in minutes.
-* **VERTEX:** Pulls ARC-formatted data from REDCap, transforms it into analysis-ready data frames, and applies reusable analytical pipelines for data processing and analysis. The results are presented as a dashboard of interactive graphics with outbreak-tailored visual evidence.
-
-This Hub has made considerable headway in community engagement within Brazil. The team engaged with the favela of **Complexo da Maré**, a socially vulnerable community in Rio de Janeiro consisting of 140,000 inhabitants. An intervention combining communication, surveillance, and telehealth, with a strong community engagement component, was able to **reduce COVID-19 mortality** and **increase case detection** in this large Rio de Janeiro community. These findings show that investment in community-based interventions may reduce mortality and improve pandemic control in vulnerable communities from LMICs.
-
-**📌 Community Impact:**  
-Led a participatory intervention in Complexo da Maré, integrating telehealth, surveillance, and communication with the community. Demonstrated measurable improvements in mortality and case detection in underserved regions.
-
-- ⬇️ **Reduced COVID-19 mortality**
-- ⬆️ **Increased case detection**
-
-**⚙️ Technologies Used:**
-
-- Python,
-- REDCap, Pandas
-
-### 🔬 ISARIC HUB South America Project Repositories
-### [ISARIC HUB South America](https://github.com/noispuc/ICODA_EFFECT_Brazil)  
-[![Stars](https://img.shields.io/github/stars/noispuc/ISARIC-HUB-SA-Analytics)](https://github.com/noispuc/ISARIC-HUB-SA-Analytics/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
----
-
-### Intelligent Antimicrobial Resistance Platform
-
-<img src="/profile/images/incept.jpg" alt="NOIS Logo" width="200" />
-
-INCEPT is a data science platform developed to support healthcare professionals — including hospital managers, Infection Control Committees (CCIH), and prescribers — in the surveillance and control of antimicrobial resistance in patients admitted to Intensive Care Units (ICUs). The tool assists in decision-making and promotes the rational use of antimicrobials, ensuring patient safety and treatment effectiveness.
-
-This project supports the national antimicrobial management strategy through a partnership with the Impacto MR platform. The initiative involves public and private hospitals and operates under the supervision of DECIT/MS and ANVISA.
-
-**📌 Community Impact:**  
-Supports national efforts to monitor and reduce antimicrobial resistance. Promotes rational prescription practices and infection control strategies across multiple ICUs in Brazil.
-
-- ⬇️ **Reduced COVID-19 mortality**
-- ⬆️ **Increased case detection**
-
-**⚙️ Technologies Used:**
-
-- Python, Javascript, CSS
-- AWS
-
-### 💊 IMPACTO MR Project Repositories
-
-These repositories are internal and part of the national antimicrobial resistance platform supported by DECIT/MS and ANVISA.
-- [`IMPACTO_MR_Dash`](https://github.com/noispuc/IMPACTO_MR_Dash) *(private repository)*
-- [`IMPACTO_MR_Tratamento`](https://github.com/noispuc/IMPACTO_MR_Tratamento) *(private repository)*
 
 ---
 
