@@ -1,6 +1,6 @@
 # 🧠 Center for Healthcare Operations and Intelligence (NOIS)
 
-<img src="https://avatars.githubusercontent.com/u/62443483?s=200&v=4" alt="NOIS Logo" />
+<img src="/profile/images/nois.jpeg" alt="NOIS Logo" width="250" />
 
 ## 📚 Table of Contents
 
@@ -26,7 +26,7 @@ Our team leads high-impact projects in areas such as epidemiological surveillanc
 
 ## 🚀 Projects Led by NOIS
 
-<img src="https://avatars.githubusercontent.com/u/62443483?s=150&v=4" alt="NOIS Logo" />
+<img src="/profile/images/icoda.png" alt="NOIS Logo" width="200"/>
 
 ### 🧪 ICODA EFFECT Brazil  
     
@@ -67,7 +67,7 @@ Conducted detailed analyses of COVID-19 spread and outcomes using hospital recor
 
 ### 🧭 ISARIC HUB South America
 
-<img src="https://avatars.githubusercontent.com/u/62443483?s=150&v=4" alt="NOIS Logo" />
+<img src="/profile/images/isaric logo.png" alt="NOIS Logo" width="200"/>
 
 The **ISARIC HUB South America** represents a crucial initiative in global health research, focused on collecting and analyzing data on emerging infectious diseases. This hub is the regional extension of the global ISARIC platform, adapting its methodologies and tools to the South American context.
 
@@ -99,7 +99,7 @@ Led a participatory intervention in Complexo da Maré, integrating telehealth, s
 
 ### Intelligent Antimicrobial Resistance Platform
 
-<img src="https://avatars.githubusercontent.com/u/62443483?s=150&v=4" alt="NOIS Logo" />
+<img src="/profile/images/incept.jpg" alt="NOIS Logo" width="200" />
 
 INCEPT is a data science platform developed to support healthcare professionals — including hospital managers, Infection Control Committees (CCIH), and prescribers — in the surveillance and control of antimicrobial resistance in patients admitted to Intensive Care Units (ICUs). The tool assists in decision-making and promotes the rational use of antimicrobials, ensuring patient safety and treatment effectiveness.
 
@@ -116,14 +116,12 @@ Supports national efforts to monitor and reduce antimicrobial resistance. Promot
 - Python, Javascript, CSS
 - AWS
 
-### 💊 IMPACTO MR Project Repositories  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+### 💊 IMPACTO MR Project Repositories
 
-#### [IMPACTO_MR_Dash](https://github.com/noispuc/IMPACTO_MR_Dash)  
-[![Stars](https://img.shields.io/github/stars/noispuc/IMPACTO_MR_Dash)](https://github.com/noispuc/IMPACTO_MR_Dash/stargazers)
+These repositories are internal and part of the national antimicrobial resistance platform supported by DECIT/MS and ANVISA.
+- [`IMPACTO_MR_Dash`](https://github.com/noispuc/IMPACTO_MR_Dash) *(private repository)*
+- [`IMPACTO_MR_Tratamento`](https://github.com/noispuc/IMPACTO_MR_Tratamento) *(private repository)*
 
-#### [IMPACTO_MR_Tratamento](https://github.com/noispuc/IMPACTO_MR_Tratamento)  
-[![Stars](https://img.shields.io/github/stars/noispuc/IMPACTO_MR_Tratamento)](https://github.com/noispuc/IMPACTO_MR_Tratamento/stargazers)
 ---
 
 ## 📬 Contact Us
