@@ -58,7 +58,7 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 
 ---
 
-### Intelligent Antimicrobial Resistance Platform
+### 💊 Intelligent Antimicrobial Resistance Platform (INCEPT)
 
 <img src="/profile/images/incept.jpg" alt="NOIS Logo" width="200" />
 
