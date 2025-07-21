@@ -14,7 +14,7 @@
 
 ---
 
-## 🏛️ About NOIS
+## About NOIS
 
 The <b>Center for Healthcare Operations and Intelligence (NOIS - Núcleo de Operações e Inteligência em Saúde)</b> is a group formed by students, professors and researchers of the Department of Industrial Engineering at PUC-Rio and TECGRAF Institute, in partnership with researchers from FIOCRUZ, USP and IDOR. <br/><br/>
 
