@@ -74,7 +74,7 @@ This project supports the national antimicrobial management strategy through a p
 
 **⚙️ Technologies Used:**
 
-- Python, Javascript, CSS
+- R, Python, Javascript, CSS
 - AWS
 
 ### 💊 IMPACTO MR Project Repositories
