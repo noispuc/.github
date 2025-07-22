@@ -52,7 +52,7 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 - REDCap, Pandas
 
 ### 🔬 ISARIC HUB South America Project Repositories
-### [ISARIC HUB South America](https://github.com/noispuc/ICODA_EFFECT_Brazil)  
+### [ISARIC HUB South America](https://github.com/noispuc/ISARIC-HUB-SA-Analytics)  
 [![Stars](https://img.shields.io/github/stars/noispuc/ISARIC-HUB-SA-Analytics)](https://github.com/noispuc/ISARIC-HUB-SA-Analytics/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
