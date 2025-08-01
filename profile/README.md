@@ -54,7 +54,6 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 ### 🔬 ISARIC HUB South America Project Repositories
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-https://github.com/noispuc/isaric3.0-vertex-installer
 #### [ISARIC Vertex Installer](https://github.com/noispuc/isaric3.0-vertex-installer)  
 [![Stars](https://img.shields.io/github.com/noispuc/isaric3.0-vertex-installer)](https://github.com/noispuc/isaric3.0-vertex-installer/stargazers)
 
