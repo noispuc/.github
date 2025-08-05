@@ -57,8 +57,8 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 ### [ISARIC Vertex Installer](https://github.com/noispuc/isaric3.0-vertex-installer)  
 [![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-vertex-installer)](https://github.com/noispuc/isaric3.0-vertex-installer/stargazers)
 
-### [ISARIC HUB South America](https://github.com/noispuc/ISARIC-HUB-SA-Analytics)  
-[![Stars](https://img.shields.io/github/stars/noispuc/ISARIC-HUB-SA-Analytics)](https://github.com/noispuc/ISARIC-HUB-SA-Analytics/stargazers)
+### [ISARIC HUB RAPs Analytics](https://github.com/noispuc/isaric3.0-raps-analytics)  
+[![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-raps-analytics)](https://github.com/noispuc/isaric3.0-raps-analytics/stargazers)
 
 ---
 
