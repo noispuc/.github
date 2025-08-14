@@ -60,6 +60,9 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 ### [ISARIC HUB RAPs Analytics](https://github.com/noispuc/isaric3.0-raps-analytics)  
 [![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-raps-analytics)](https://github.com/noispuc/isaric3.0-raps-analytics/stargazers)
 
+### [ISARIC HUB Phenotyping Clustering](https://github.com/noispuc/isaric3.0-pheontyping-clustering)  
+[![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-pheontyping-clustering)](https://github.com/noispuc/isaric3.0-pheontyping-clustering/stargazers)
+
 ---
 
 ### 💊 Intelligent Antimicrobial Resistance Platform (INCEPT)
