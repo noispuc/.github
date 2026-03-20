@@ -63,6 +63,9 @@ This Hub has made considerable headway in community engagement within Brazil. Th
 ### [ISARIC HUB Phenotyping Clustering](https://github.com/noispuc/isaric3.0-pheontyping-clustering)  
 [![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-pheontyping-clustering)](https://github.com/noispuc/isaric3.0-pheontyping-clustering/stargazers)
 
+### [ISARIC South America Arboviroses Dashboard](https://github.com/noispuc/isaric3.0-southamerica-dashboard)  
+[![Stars](https://img.shields.io/github/stars/noispuc/isaric3.0-southamerica-dashboard)](https://github.com/noispuc/isaric3.0-southamerica-dashboard/stargazers)
+
 ---
 
 ### 💊 Intelligent Antimicrobial Resistance Platform (INCEPT)
